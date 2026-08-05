@@ -71,6 +71,6 @@ jobfair-ai/
    ```
 4. Run the notebook cells in order
 
-## Author
 
-Yash Govalkar — Aspiring Data Analyst, Imarticus Learning, Mumbai
+Yash Govalkar —  Imarticus Learning, Mumbai
+
